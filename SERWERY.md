@@ -24,5 +24,10 @@ Nieprzerwanie działa od wakacji 2014.
 ## [Master Real Life](mtasa://193.70.126.136:21040)
 Serwer korzystający z XyzzyRP przerobionego na serwer RPG.
 
+## [ProxyMTA](https://proxymta.pl/index.php)
+Powstający serwera na gamodzie XyzzyRP,zmodyfikowany w ciekawy sposób jak na scene MTA.
+Wiele ciekawych prac oraz zajęc na serwerze m.in dodatkowe prace dla służb porządkowych.
+Organizacje Przestępcze mogą poczucić swój sens na tym GM.
+
 
 Jeśli korzystasz z tego kodu i chesz się tym pochwalić, zmodyfikuj ten plik i dopisz swój serwer.
